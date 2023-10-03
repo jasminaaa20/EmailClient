@@ -18,7 +18,7 @@ An efficient and modular email client designed to perform various operations rel
 ## Directory Structure:
 
 - **src**: Contains all the source code for the project.
-- **Libraries**: Contains all the libraries used in the project
+- **Libraries**: Contains all the libraries used in the project.
 
 ## Usage:
 
